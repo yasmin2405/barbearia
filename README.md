@@ -1,1 +1,2 @@
-# barbearia
+# barba
+Pagina comercial para aprendizagem.
